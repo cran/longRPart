@@ -1,11 +1,14 @@
 Package: longRPart
 Type: Package
-Title: Recursive partitioning of longitudinal data using mixed-effects models
-Version: 0.1
+Title: Recursive partitioning of longitudinal data using mixed-effects
+        models
+Version: 1.0
 Date: 2008-03-7
 Author: Sam Stewart and Mohamed Abdolell
-Maintainer: Sam Stewart <samstewrt11@gmail.com>
+Maintainer: Sam Stewart <samstewart11@gmail.com>
 Depends: nlme,rpart
 Description:
 License: GPL
-Packaged: Thu Dec 18 11:16:19 2008; sam
+Packaged: 2012-10-29 08:59:07 UTC; ripley
+Repository: CRAN
+Date/Publication: 2012-10-29 08:59:07
